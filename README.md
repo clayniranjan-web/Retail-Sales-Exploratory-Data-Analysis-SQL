@@ -217,10 +217,10 @@ CREATE DATABASE RetailSalesEDA;
 
 ## 👤 Author
 
-**[Your Name]**
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
-- 🐙 GitHub: [Your GitHub URL]
+Clay Niranjan
+- 💼 LinkedIn: https://www.linkedin.com/in/clay-niranjan-b4587b31b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: clayniranjan@gmail.com
+- 🐙 GitHub:
 
 ---
 
