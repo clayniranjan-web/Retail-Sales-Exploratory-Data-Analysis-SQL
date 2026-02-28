@@ -1,0 +1,113 @@
+product_key,product_id,product_number,product_name,category_id,category,subcategory,maintenance,cost,product_line,start_date
+1,701,PR-00701,Mountain-100 Black,1,Bikes,Mountain Bikes,,2959.57,,2013-05-01
+2,702,PR-00702,Mountain-100 Silver,1,Bikes,Mountain Bikes,Yes,2250.18,,2017-03-01
+3,703,PR-00703,Mountain-200 Black,1,Bikes,Mountain Bikes,Yes,2064.76,Standard,2008-11-01
+4,704,PR-00704,Mountain-200 Blue,1,Bikes,Mountain Bikes,No,2819.97,,2008-01-01
+5,705,PR-00705,Mountain-300 Black,1,Bikes,Mountain Bikes,,2438.29,,2016-04-01
+6,706,PR-00706,Mountain-400-W Silver,1,Bikes,Mountain Bikes,No,1999.49,Road,2008-11-01
+7,707,PR-00707,Mountain-500 Black,1,Bikes,Mountain Bikes,Yes,400.75,Mountain,2009-07-01
+8,708,PR-00708,Mountain-500 Silver,1,Bikes,Mountain Bikes,No,1318.13,Standard,2014-04-01
+9,709,PR-00709,Road-150 Red,1,Bikes,Road Bikes,Yes,1746.13,Road,2013-05-01
+10,710,PR-00710,Road-250 Black,1,Bikes,Road Bikes,,2287.96,,2010-06-01
+11,711,PR-00711,Road-250 Red,1,Bikes,Road Bikes,Yes,2904.55,Touring,2014-04-01
+12,712,PR-00712,Road-350-W Yellow,1,Bikes,Road Bikes,,1582.37,Standard,2005-05-01
+13,713,PR-00713,Road-450 Red,1,Bikes,Road Bikes,Yes,855.09,,2013-02-01
+14,714,PR-00714,Road-550-W Yellow,1,Bikes,Road Bikes,Yes,1708.24,Touring,2017-09-01
+15,715,PR-00715,Road-650 Black,1,Bikes,Road Bikes,,2887.44,,2009-12-01
+16,716,PR-00716,Road-650 Red,1,Bikes,Road Bikes,,1551.2,Standard,2012-04-01
+17,717,PR-00717,Road-750 Black,1,Bikes,Road Bikes,,2369.43,Standard,2012-10-01
+18,718,PR-00718,Touring-1000 Blue,1,Bikes,Touring Bikes,Yes,2641.26,Standard,2009-02-01
+19,719,PR-00719,Touring-1000 Yellow,1,Bikes,Touring Bikes,,1394.95,Mountain,2016-04-01
+20,720,PR-00720,Touring-2000 Blue,1,Bikes,Touring Bikes,No,2480.42,Standard,2013-09-01
+21,721,PR-00721,Touring-3000 Blue,1,Bikes,Touring Bikes,Yes,425.28,Touring,2009-02-01
+22,722,PR-00722,Touring-3000 Yellow,1,Bikes,Touring Bikes,Yes,1437.22,Touring,2013-03-01
+23,723,PR-00723,HL Mountain Handlebars,2,Components,Handlebars,Yes,248.75,Touring,2014-05-01
+24,724,PR-00724,LL Mountain Handlebars,2,Components,Handlebars,No,107.74,Mountain,2016-04-01
+25,725,PR-00725,ML Mountain Handlebars,2,Components,Handlebars,No,132.73,Mountain,2008-04-01
+26,726,PR-00726,HL Road Handlebars,2,Components,Handlebars,,117.33,Mountain,2010-03-01
+27,727,PR-00727,LL Road Handlebars,2,Components,Handlebars,Yes,393.89,Road,2015-11-01
+28,728,PR-00728,HL Bottom Bracket,2,Components,Bottom Brackets,,256.48,Road,2005-08-01
+29,729,PR-00729,LL Bottom Bracket,2,Components,Bottom Brackets,No,198.17,Touring,2014-05-01
+30,730,PR-00730,ML Bottom Bracket,2,Components,Bottom Brackets,No,255.59,,2011-04-01
+31,731,PR-00731,Front Brakes,2,Components,Brakes,Yes,380.08,Mountain,2013-07-01
+32,732,PR-00732,Rear Brakes,2,Components,Brakes,Yes,249.59,,2013-06-01
+33,733,PR-00733,HL Road Chain,2,Components,Chains,No,208.98,Mountain,2006-12-01
+34,734,PR-00734,LL Chain,2,Components,Chains,,268.74,Touring,2005-01-01
+35,735,PR-00735,HL Crankset,2,Components,Cranksets,,343.57,Standard,2006-06-01
+36,736,PR-00736,LL Crankset,2,Components,Cranksets,Yes,193.57,Touring,2013-05-01
+37,737,PR-00737,ML Crankset,2,Components,Cranksets,,133.83,Standard,2010-06-01
+38,738,PR-00738,Front Derailleur,2,Components,Derailleurs,Yes,108.28,Standard,2011-12-01
+39,739,PR-00739,Rear Derailleur,2,Components,Derailleurs,No,381.05,Touring,2009-08-01
+40,740,PR-00740,HL Fork,2,Components,Forks,,106.35,Mountain,2015-04-01
+41,741,PR-00741,LL Fork,2,Components,Forks,Yes,410.81,Touring,2013-07-01
+42,742,PR-00742,ML Fork,2,Components,Forks,Yes,431.03,Mountain,2017-12-01
+43,743,PR-00743,HL Headset,2,Components,Headsets,Yes,91.78,Road,2011-08-01
+44,744,PR-00744,LL Headset,2,Components,Headsets,,84.55,,2016-06-01
+45,745,PR-00745,ML Headset,2,Components,Headsets,No,396.96,Touring,2013-10-01
+46,746,PR-00746,HL Mountain Frame - Black,2,Components,Mountain Frames,,42.9,Road,2007-01-01
+47,747,PR-00747,HL Mountain Frame - Silver,2,Components,Mountain Frames,No,123.42,Touring,2018-11-01
+48,748,PR-00748,LL Mountain Frame - Black,2,Components,Mountain Frames,No,66.22,Touring,2010-06-01
+49,749,PR-00749,HL Pedal,2,Components,Pedals,No,288.97,Touring,2005-07-01
+50,750,PR-00750,LL Pedal,2,Components,Pedals,Yes,78.19,,2014-10-01
+51,751,PR-00751,ML Pedal,2,Components,Pedals,Yes,331.94,,2017-05-01
+52,752,PR-00752,HL Road Frame - Black,2,Components,Road Frames,No,190.45,,2017-12-01
+53,753,PR-00753,HL Road Frame - Red,2,Components,Road Frames,No,234.53,Road,2014-05-01
+54,754,PR-00754,LL Road Frame - Black,2,Components,Road Frames,Yes,242.6,Mountain,2015-06-01
+55,755,PR-00755,LL Road Frame - Red,2,Components,Road Frames,,222.47,,2011-02-01
+56,756,PR-00756,ML Road Frame - Red,2,Components,Road Frames,Yes,57.97,Touring,2010-06-01
+57,757,PR-00757,HL Road Seat/Saddle,2,Components,Saddles,,333.45,Touring,2015-07-01
+58,758,PR-00758,LL Road Seat/Saddle,2,Components,Saddles,No,150.2,Standard,2016-10-01
+59,759,PR-00759,ML Mountain Seat/Saddle,2,Components,Saddles,No,270.05,Standard,2007-03-01
+60,760,PR-00760,HL Touring Frame - Blue,2,Components,Touring Frames,,430.02,Mountain,2008-11-01
+61,761,PR-00761,LL Touring Frame - Blue,2,Components,Touring Frames,Yes,140.79,Road,2007-07-01
+62,762,PR-00762,LL Touring Frame - Yellow,2,Components,Touring Frames,No,69.44,Road,2013-01-01
+63,763,PR-00763,HL Mountain Front Wheel,2,Components,Wheels,,32.66,Standard,2017-02-01
+64,764,PR-00764,HL Mountain Rear Wheel,2,Components,Wheels,Yes,69.89,,2006-11-01
+65,765,PR-00765,HL Road Front Wheel,2,Components,Wheels,No,467.16,Standard,2008-04-01
+66,766,PR-00766,HL Road Rear Wheel,2,Components,Wheels,,374.04,Standard,2007-03-01
+67,767,PR-00767,LL Mountain Front Wheel,2,Components,Wheels,Yes,272.84,Mountain,2005-11-01
+68,768,PR-00768,Half-Finger Gloves M,3,Clothing,Caps,No,34.98,Touring,2012-09-01
+69,769,PR-00769,Half-Finger Gloves L,3,Clothing,Caps,No,75.44,,2007-12-01
+70,770,PR-00770,Full-Finger Gloves S,3,Clothing,Gloves,,47.75,,2012-11-01
+71,771,PR-00771,Full-Finger Gloves M,3,Clothing,Gloves,No,62.42,,2013-11-01
+72,772,PR-00772,Half-Finger Gloves S,3,Clothing,Gloves,No,54.77,Touring,2012-09-01
+73,773,PR-00773,Long-Sleeve Logo Jersey S,3,Clothing,Jerseys,No,25.9,Road,2009-06-01
+74,774,PR-00774,Long-Sleeve Logo Jersey M,3,Clothing,Jerseys,No,38.85,Mountain,2005-01-01
+75,775,PR-00775,Long-Sleeve Logo Jersey L,3,Clothing,Jerseys,No,46.63,Mountain,2009-08-01
+76,776,PR-00776,Long-Sleeve Logo Jersey XL,3,Clothing,Jerseys,No,47.46,Standard,2009-01-01
+77,777,PR-00777,Short-Sleeve Classic Jersey S,3,Clothing,Jerseys,,63.61,Touring,2008-01-01
+78,778,PR-00778,Short-Sleeve Classic Jersey M,3,Clothing,Jerseys,No,48.37,Mountain,2013-07-01
+79,779,PR-00779,Men's Sports Shorts S,3,Clothing,Shorts,,37.63,Mountain,2016-11-01
+80,780,PR-00780,Men's Sports Shorts M,3,Clothing,Shorts,Yes,37.28,Standard,2009-02-01
+81,781,PR-00781,Men's Sports Shorts L,3,Clothing,Shorts,,39.56,Mountain,2017-10-01
+82,782,PR-00782,Women's Mountain Shorts S,3,Clothing,Shorts,No,66.53,Touring,2015-12-01
+83,783,PR-00783,Mountain Bike Socks M,3,Clothing,Socks,No,47.24,Touring,2008-02-01
+84,784,PR-00784,Mountain Bike Socks L,3,Clothing,Socks,Yes,22.77,Touring,2015-08-01
+85,785,PR-00785,Men's Bib-Shorts S,3,Clothing,Tights,,53.24,Touring,2014-08-01
+86,786,PR-00786,Women's Tights S,3,Clothing,Tights,Yes,23.15,Road,2005-09-01
+87,787,PR-00787,Classic Vest S,3,Clothing,Vests,No,11.55,Road,2009-03-01
+88,788,PR-00788,Classic Vest M,3,Clothing,Vests,Yes,60.06,Road,2006-03-01
+89,789,PR-00789,Classic Vest L,3,Clothing,Vests,No,11.03,Mountain,2011-05-01
+90,790,PR-00790,Hitch Rack - 4-Bike,4,Accessories,Bike Racks,No,158.22,Standard,2012-12-01
+91,791,PR-00791,All-Purpose Bike Stand,4,Accessories,Bike Stands,Yes,159.33,Touring,2018-03-01
+92,792,PR-00792,Mountain Bottle Cage,4,Accessories,Bottles and Cages,Yes,15.93,Standard,2013-08-01
+93,793,PR-00793,Road Bottle Cage,4,Accessories,Bottles and Cages,No,40.41,Touring,2018-01-01
+94,794,PR-00794,Water Bottle - 30 oz.,4,Accessories,Bottles and Cages,No,28.78,Mountain,2017-08-01
+95,795,PR-00795,Bike Wash - Dissolver,4,Accessories,Cleaners,Yes,53.2,Road,2012-12-01
+96,796,PR-00796,Fender Set - Mountain,4,Accessories,Fenders,,155.34,,2008-08-01
+97,797,PR-00797,Sport-100 Helmet Blue,4,Accessories,Helmets,No,80.88,Touring,2007-11-01
+98,798,PR-00798,Sport-100 Helmet Black,4,Accessories,Helmets,,147.01,,2006-05-01
+99,799,PR-00799,Sport-100 Helmet Red,4,Accessories,Helmets,Yes,98.84,Touring,2010-01-01
+100,800,PR-00800,Hydration Pack - 70 oz.,4,Accessories,Hydration Packs,Yes,173.41,Mountain,2008-11-01
+101,801,PR-00801,Taillight Battery-Powered,4,Accessories,Lights,Yes,89.66,Road,2017-05-01
+102,802,PR-00802,Headlights - Weatherproof,4,Accessories,Lights,Yes,119.02,Standard,2005-01-01
+103,803,PR-00803,Cable Lock,4,Accessories,Locks,,118.31,Standard,2014-03-01
+104,804,PR-00804,Touring Panniers Large,4,Accessories,Panniers,Yes,77.42,Road,2007-08-01
+105,805,PR-00805,Minipump,4,Accessories,Pumps,No,22.82,,2017-11-01
+106,806,PR-00806,ML Mountain Tire,4,Accessories,Tires and Tubes,,16.71,Touring,2007-12-01
+107,807,PR-00807,Patch Kit/8 Patches,4,Accessories,Tires and Tubes,Yes,109.59,Road,2012-04-01
+108,808,PR-00808,Road Tire Tube,4,Accessories,Tires and Tubes,,66.76,,2017-06-01
+109,809,PR-00809,LL Mountain Tire,4,Accessories,Tires and Tubes,,162.08,Standard,2008-01-01
+110,810,PR-00810,Touring Tire Tube,4,Accessories,Tires and Tubes,,139.4,Touring,2007-05-01
+111,811,PR-00811,Touring Tire,4,Accessories,Tires and Tubes,,180.24,Standard,2012-09-01
+112,812,PR-00812,HL Mountain Tire,4,Accessories,Tires and Tubes,Yes,62.47,Standard,2014-03-01
