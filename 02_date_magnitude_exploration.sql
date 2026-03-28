@@ -64,3 +64,4 @@
 		FROM Customers AS c
 	LEFT JOIN Sales AS s
 	ON c.customer_key = s.customer_key
+
