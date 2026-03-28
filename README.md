@@ -10,8 +10,6 @@
 
 This project is a complete **Exploratory Data Analysis (EDA)** of a retail bike store database built entirely using **Microsoft SQL Server**. The goal is to explore, understand, and extract meaningful business insights from raw sales data — covering customers, products, and transactions spanning **7 years (2018–2024)** across **25 countries**.
 
-This project demonstrates the ability to think like a data analyst — not just writing SQL queries, but asking the right business questions and deriving actionable insights from data.
-
 ---
 
 🗃️ Database Structure
@@ -79,34 +77,6 @@ birthdate                price
 create_date
 ```
 
----
-
-🗂️ Project Structure
-
-```
-📁 Retail-Sales-Exploratory-Data-Analysis-SQL
-│
-├── 📄 README.md
-│
-├── 📄 01_database_exploration.sql
-│       └── Explore tables, columns, countries, categories
-│
-├── 📄 02_date_magnitude_exploration.sql
-│       └── Date ranges, KPIs, totals, counts
-│
-├── 📄 03_customer_segmentation.sql
-│       └── Customers by country, gender, activation rate
-│
-├── 📄 04_product_performance.sql
-│       └── Revenue by category, top & bottom products
-│
-├── 📄 customers.csv
-├── 📄 products.csv
-└── 📄 sales.csv
-```
-
----
-
 ❓ Business Questions Answered
 
 🗂️ Tier 1 — Database Exploration
@@ -153,7 +123,6 @@ create_date
 | **Microsoft SQL Server** | Database engine |
 | **SSMS** (SQL Server Management Studio) | Query writing and execution |
 | **SQL** | Data exploration and analysis language |
-| **Python** | Dataset generation (CSV files) |
 | **GitHub** | Version control and portfolio sharing |
 
 ---
