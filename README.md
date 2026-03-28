@@ -3,7 +3,6 @@
 ![SQL](https://img.shields.io/badge/SQL-Microsoft%20SQL%20Server-blue?style=flat&logo=microsoftsqlserver)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Domain](https://img.shields.io/badge/Domain-Retail%20%7C%20Sales-orange)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-yellow)
 
 ---
 
