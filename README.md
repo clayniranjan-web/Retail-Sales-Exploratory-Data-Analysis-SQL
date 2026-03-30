@@ -10,6 +10,8 @@
 
 This project is a complete **Exploratory Data Analysis (EDA)** of a retail bike store database built entirely using **Microsoft SQL Server**. The goal is to explore, understand, and extract meaningful business insights from raw sales data — covering customers, products, and transactions spanning **7 years (2018–2024)** across **25 countries**.
 
+![Retail Sales Performance Dashboard] (Retail Sales Performance Dashboard.png)
+
 ---
 
 🗃️ Database Structure
